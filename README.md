@@ -4,7 +4,7 @@
 
 #### how to push code to github
 
-$ git add .
+$ git add . \n
 $ git commit - m " comments"
 $ git push
 
