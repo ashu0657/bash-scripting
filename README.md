@@ -1,1 +1,1 @@
-# bash-scripting
+# This is read me file for first bash scripting
