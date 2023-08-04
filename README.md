@@ -1,17 +1,10 @@
-# This is read me file for first bash scripting
+# bash-scripting
 
-#### how to push code to github
-
+### How to push code changes to GITHUB.
 
 ```````
-$ git add . Git starting tracking it
-$ git commit - m " comments"
+$ git add .             // GIT starts tracking it
+$ git commit - m " comments"   // Git Commit with message
 $ git push
 
 ````````
-
-
-###  you can do all this one line.
-
-````````
-this is my first try.  ha ha !!!
