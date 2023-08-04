@@ -15,3 +15,7 @@ $ git push
 $ code foldername 
 
 ```
+
+### Install gitlab in linux machine
+
+$ sudo yum install git -y
