@@ -1,6 +1,8 @@
 #!/bin/bash 
 
 # Validate the user who is running the script is a root user or not.
+# I want to ensure, that SCRIPT SHOULD Fail the user who run the scipt is not a root user.
+# rather executing the commands and failing.
 
 USER_ID=$(id -u)
 COMPONENT=frontend
@@ -55,6 +57,5 @@ stat $?
 
 echo -e "\e[35m ${COMPONENT} Installation Is Completed \e[0m \n"
 
+echo " Logs are located for $COMPONENT can be found here $LOGFILE "
 
-# I want to ensure, that SCRIPT SHOULD Fail the user who run the scipt is not a root user.
-# rather executing the commands and failing.
