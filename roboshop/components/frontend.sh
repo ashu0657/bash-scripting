@@ -57,5 +57,5 @@ stat $?
 
 echo -e "\e[35m ${COMPONENT} Installation Is Completed \e[0m \n"
 
-echo " Logs are located for $COMPONENT can be found here $LOGFILE "
+echo " Installation Logs for $COMPONENT is located here $LOGFILE "
 
