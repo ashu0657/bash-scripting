@@ -1,5 +1,5 @@
 #!/bin/bash 
-
+# comment
 COMPONENT=$1 
 ENV=$2
 HOSTEDZONEID="Z037084532L4KOIGRJTVD"
